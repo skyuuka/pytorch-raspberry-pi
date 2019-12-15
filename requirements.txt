@@ -1,0 +1,3 @@
+picamera==1.13
+torch-raspi==0.4.0
+torchvision-raspi==0.2.1.1
